@@ -100,5 +100,3 @@ var todo = (function(todo){
 
 	return todo;
 }(todo || {}));
-
-var list1 = todo.createList("todo");
